@@ -1,4 +1,6 @@
 # tju_intellgence
+Admin
+admin123
 
 ## Project setup
 ```
